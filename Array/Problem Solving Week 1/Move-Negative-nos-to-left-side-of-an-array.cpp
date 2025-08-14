@@ -30,18 +30,5 @@ int main() {
     int n = sizeof(arr) / sizeof(int); // 7
     
     sortNegative(arr, n);
-    
-    
-    return 0;
-    
+    return 0;   
 }
-
-
-
-
-
-
-
-
-
-
